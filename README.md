@@ -38,13 +38,6 @@
 
 ---
 
-### 📜 Random Dev Quote
-
-> “Code is poetry. When it’s done right, you get nothing close to production.”  
-> — *Anonymous*
-
----
-
 ### 📬 Connect With Me
 
 <div align="center">
