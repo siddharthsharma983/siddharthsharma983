@@ -1,6 +1,5 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://i.imgur.com/ACvXx4H.png" width="150" style="border-radius:20px; border: 4px solid #00F0FF; box-shadow: 0 0 15px #00F0FF; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
   <h1>Hey there, I'm Siddharth Sharma 👋</h1>
   <p>A calm problem solver who writes code like poetry — backend strong, frontend smooth.</p>
   <p>🎓 BCA (Computer Science) | MCA (2024–2027)</p>
