@@ -52,16 +52,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddharthsharma983&show_icons=true&theme=dark&hide_border=false" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthsharma983&theme=dark&hide_border=false" alt="Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharthsharma983&theme=react-dark&hide_border=false" alt="Activity" />
-</div>
-
----
-
 ### 📜 Random Dev Quote
 
 > “Code is poetry. When it’s done right, you get nothing close to production.”  
