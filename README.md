@@ -34,21 +34,14 @@
 
 ### 📂 Featured Projects
 
-<div align="center">
+<!-- Tum apne projects khud add karna chahte ho — abhi empty rakha hai -->
 
-#### 🖥️ TravelShowcase — Responsive Photo Gallery
-<img src="https://i.imgur.com/XXXXX.png" width="200" />
-<br/>
-<a href="https://github.com/siddharthsharma983/travel-showcase"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://travelshowcase.vercel.app"><img src="https://img.shields.io/badge/Demo-0000FF?style=for-the-badge" /></a>
+---
 
-#### 📱 Task Manager App
-<img src="https://i.imgur.com/YYYYY.png" width="200" />
-<br/>
-<a href="https://github.com/siddharthsharma983/task-manager"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://taskmanager.vercel.app"><img src="https://img.shields.io/badge/Demo-0000FF?style=for-the-badge" /></a>
+### 📜 Random Dev Quote
 
-</div>
+> “Code is poetry. When it’s done right, you get nothing close to production.”  
+> — *Anonymous*
 
 ---
 
