@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="150" style="border-radius:50%; border: 4px solid #333;" />
+  <img src="https://i.imgur.com/ACvXx4H.png" width="150" style="border-radius:20px; border: 4px solid #00F0FF; box-shadow: 0 0 15px #00F0FF; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
   <h1>Hey there, I'm Siddharth Sharma 👋</h1>
   <p>🎓 BCA (Computer Science) | MCA (2024–2027)</p>
   <p>💼 Full Stack Developer | React • Node.js • MongoDB</p>
@@ -13,48 +13,51 @@
 
 ### 🌌 About Me
 
-> _“Code is my ninjutsu — clean, fast, and always evolving.”_ 🍥  
->  
-> - ✅ BCA completed in Computer Science  
-> - 🎓 Currently pursuing **MCA (2024–2027)**  
-> - 🧠 Building full-stack apps with **React, Node.js, Express, MongoDB**  
-> - 🎯 Passionate about clean UI, performance, and scalable architecture  
-> - 📚 Learning: Docker, AWS, and modern DevOps practices
+> _“Code is my domain expansion — infinite, powerful, and always evolving.”_ 🌀  
+> *(Inspired by Gojo Satoru — calm, confident, limitless potential)*  
+
+- ✅ BCA completed in Computer Science  
+- 🎓 Currently pursuing **MCA (2024–2027)**  
+- 🧠 Building full-stack apps with modern tools  
+- 🎯 Focused on clean code, performance, and user experience  
 
 ---
 
-### 🛠️ Tech Stack
+### 🎓 Education
 
 <div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+#### 🖥️ **MCA (Master of Computer Applications)**  
+**2024 – 2027**  
+- Pursuing at [Your College/University]  
+- Focus: Full Stack Development, Data Structures, Cloud Basics  
+
+#### 🎓 **BCA (Bachelor of Computer Applications)**  
+**2021 – 2024**  
+- Completed at [Your College/University]  
+- Final Year Project: *"[Project Name]"*  
+
 </div>
 
 ---
 
-### 📂 Featured Projects
+### 🛠️ Skills *(Tum khud daalna chahte ho — placeholder)*  
+<!-- Add your skills here later -->
 
-<div align="center">
+---
 
-#### 🖥️ TravelShowcase — Responsive Photo Gallery
-<img src="https://i.imgur.com/XXXXX.png" width="220" style="border-radius:12px;" />
-<br/>
-<a href="https://github.com/siddharthsharma983/travel-showcase"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://travelshowcase.vercel.app"><img src="https://img.shields.io/badge/Demo-6441A5?style=for-the-badge" /></a>
+### 📂 Projects *(Tum khud daalna chahte ho — placeholder)*  
+<!-- Add your projects with GitHub/live links -->
 
-#### 📱 Task Manager App
-<img src="https://i.imgur.com/YYYYY.png" width="220" style="border-radius:12px;" />
-<br/>
-<a href="https://github.com/siddharthsharma983/task-manager"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://taskmanager.vercel.app"><img src="https://img.shields.io/badge/Demo-6441A5?style=for-the-badge" /></a>
+---
 
-</div>
+### 🏆 Achievements *(Tum khud daalna chahte ho — placeholder)*  
+<!-- Add certs, hackathons, etc. -->
+
+---
+
+### 📬 Contact *(Tum khud daalna chahte ho — placeholder)*  
+<!-- Add email, LinkedIn, etc. -->
 
 ---
 
@@ -67,14 +70,5 @@
 
 ---
 
-### 📬 Connect With Me
-
-<div align="center">
-  <a href="mailto:siddharthsharma983@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/siddharthsharma983"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
-
----
-
-> 💫 *“A developer’s journey is like a shonen anime — grind, evolve, and never stop.”*  
+> 💫 *“A developer’s strength isn’t in copying — it’s in creating your own jutsu.”*  
 > — *Siddharth Sharma*
