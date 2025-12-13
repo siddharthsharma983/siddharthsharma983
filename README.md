@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://i.imgur.com/ACvXx4H.png" width="150" style="border-radius:20px; border: 4px solid #6441A5; box-shadow: 0 4px 12px rgba(100,65,165,0.4);" />
+  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="150" style="border-radius:50%; border: 4px solid #333;" />
   <h1>Hey there, I'm Siddharth Sharma 👋</h1>
   <p>🎓 BCA (Computer Science) | MCA (2024–2027)</p>
   <p>💼 Full Stack Developer | React • Node.js • MongoDB</p>
@@ -11,7 +11,7 @@
 
 ---
 
-### 🌌 About Me (Anime Style, But Professional)
+### 🌌 About Me
 
 > _“Code is my ninjutsu — clean, fast, and always evolving.”_ 🍥  
 >  
