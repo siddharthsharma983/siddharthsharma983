@@ -10,7 +10,7 @@
 ### 🧑‍💻 About Me
 
 - 💼 Full Stack Developer with a technical bend — working with React, Node.js, and secure REST APIs.
-- 🎯 Learning Docker.
+- 🎯 Docker Complete.
 - 🛠️ All web stack: React, Tailwind, MongoDB, and API.
 - 📚 Passionate about building scalable architectures.
 - 🤖 Code with purpose — not just compiling, but creating value.
@@ -72,6 +72,6 @@
 ### 📬 Connect With Me
 
 <div align="center">
-  <a href="mailto:siddharthsharma983@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/siddharthsharma983"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gs7248543@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/siddharth-sharma-12514337b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
