@@ -10,8 +10,8 @@
 ### 🧑‍💻 About Me
 
 - 💼 Full Stack Developer with a technical bend — working with React, Node.js, and secure REST APIs.
-- 🎯 Learning Docker in containerization-driven and ship culture.
-- 🛠️ All web stack: React, Tailwind, JWT, MongoDB, GraphQL, and API.
+- 🎯 Learning Docker.
+- 🛠️ All web stack: React, Tailwind, MongoDB, and API.
 - 📚 Passionate about building scalable architectures.
 - 🤖 Code with purpose — not just compiling, but creating value.
 
