@@ -51,5 +51,9 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gs7248543@gmail.com&su=Hi%20Siddharth%2C%20I%20saw%20your%20portfolio%20on%20GitHub&body=Hello%20Siddharth%2C%0A%0AI%20was%20impressed%20by%20your%20portfolio%20and%20would%20like%20to%20connect.%0A%0ABest%20regards%2C%0A[Your%20Name]" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/siddharth-sharma-12514337b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/siddharth-sharma-12514337b/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </div>
