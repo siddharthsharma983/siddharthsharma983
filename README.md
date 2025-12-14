@@ -2,7 +2,7 @@
 <div align="center">
   <h1>Hey there, I'm Siddharth Sharma 👋</h1>
   <p>A calm problem solver who writes code like poetry — backend strong, frontend smooth.</p>
-  <p>🎓 BCA (Computer Science) | MCA ( Computer Science ) | </p>
+  <p>🎓 BCA (Computer Science) | MCA ( Computer Science ) </p>
 </div>
 
 ---
