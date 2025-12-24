@@ -62,15 +62,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddharthsharma983&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthsharma983&theme=tokyonight" height="170"/>
-</div>
-
----
-
 ## 💼 Open to Opportunities
 
 I'm currently open for:
