@@ -1,9 +1,10 @@
-<!-- HERO SECTION -->
 <div align="center">
 
 <h1>Hi, I'm Siddharth Sharma 👋</h1>
 
 <p><b>Frontend Developer</b> focused on pixel-perfect UI, smooth animations, and modern web experiences.</p>
+
+<h3>🚀 <a href="https://my-portfolio-tau-puce-27.vercel.app/">Visit My Portfolio</a></h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+JavaScript+%7C+Tailwind+CSS;UI+%2F+UX+%26+Web+Animations;Building+Clean+%26+Interactive+Interfaces" />
 
@@ -56,9 +57,7 @@
 - Smooth scroll & page transitions  
 - Mobile-first responsive design  
 - Clean UI/UX focus  
-🔗 Live Demo | 💻 Source Code
-
-<!-- Add more projects like this -->
+🔗 [Live Demo](https://my-portfolio-tau-puce-27.vercel.app/) | 💻 [Source Code](https://github.com/siddharthsharma983/my-Portfolio)
 
 ---
 
