@@ -4,13 +4,13 @@
 
 <p><b>Frontend Developer</b> focused on pixel-perfect UI, smooth animations, and modern web experiences.</p>
 
-<h3>🚀 <a href="https://my-portfolio-tau-puce-27.vercel.app/">Visit My Portfolio</a></h3>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+JavaScript+%7C+Tailwind+CSS;UI+%2F+UX+%26+Web+Animations;Building+Clean+%26+Interactive+Interfaces" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=siddharthsharma983&label=Profile%20Views&color=38B2AC&style=flat" />
+<a href="https://my-portfolio-tau-puce-27.vercel.app/">
+   <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-38B2AC?style=for-the-badge&logoColor=white" />
+</a>
 
 </div>
 
