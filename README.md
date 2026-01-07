@@ -4,7 +4,7 @@
 
 <p><b>Frontend Developer</b> focused on pixel-perfect UI, smooth animations, and modern web experiences.</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+JavaScript+%7C+Tailwind+CSS;UI+%2F+UX+%26+Web+Animations;Building+Clean+%26+Interactive+Interfaces" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+JavaScript+%7C+Tailwind+CSS+%7C+Redux+Toolkit;UI+%2F+UX+%26+Web+Animations;Building+Clean+%26+Interactive+Interfaces" />
 
 </div>
 
@@ -15,7 +15,7 @@
 ## 🧑‍💻 About Me
 
 - 🎨 Frontend Developer passionate about **clean UI & smooth UX**
-- ⚛️ Strong command over **React.js**
+- ⚛️ Strong command over **React.js** and **Redux Toolkit** for state management
 - 💅 Expert in **Tailwind CSS & modern CSS**
 - 🎬 Love creating **animations & micro-interactions**
 - 📱 Responsive, mobile-first design mindset
@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
@@ -42,12 +43,13 @@
 - 🎥 Smooth UI animations  
 - 🧠 Micro-interactions for better UX  
 - 📱 Fully responsive layouts  
+- ⚡ State management with **Redux Toolkit**  
 - 🚀 Performance-focused frontend  
 
 ---
 
 ### 🚀 Animated Portfolio Website
-- React + Tailwind CSS  
+- React + Redux Toolkit + Tailwind CSS  
 - Smooth scroll & page transitions  
 - Mobile-first responsive design  
 - Clean UI/UX focus  
