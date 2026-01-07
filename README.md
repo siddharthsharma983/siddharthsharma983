@@ -46,8 +46,6 @@
 
 ---
 
-## 📂 Featured Projects
-
 ### 🚀 Animated Portfolio Website
 - React + Tailwind CSS  
 - Smooth scroll & page transitions  
